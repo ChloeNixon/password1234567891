@@ -1,1 +1,1 @@
-My name is Chloe and I like big women
+My name is Chloe,I am an undergrad studying computer science. I am most interested in python projects.
