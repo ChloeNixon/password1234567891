@@ -1,1 +1,1 @@
-My name is Chloe,I am an undergrad studying computer science. I am most interested in python projects.
+Hello! My name is Chloe, I am an undergrad majoring in computer science. I do code here :)
