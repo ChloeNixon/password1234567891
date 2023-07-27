@@ -1,1 +1,1 @@
-Hello! My name is Chloe, I am an undergrad majoring in computer science. I do code here :)
+Hello! My name is Chloe, I do code here :) I am an undergraduate student who has junior-level knowledge in computer science as well as experience in web development and React applications. I am open to any and all types of new projects, feel free to look around!
